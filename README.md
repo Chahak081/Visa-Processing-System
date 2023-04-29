@@ -17,9 +17,7 @@ Features:
 Installation:
 * To install and run the application on your local machine, follow these steps:
 
-1.Clone the repository to your local machine using Git:
-
-* git clone https://github.com/your-username/visa-processing-system.git
+1.Clone the repository to your local machine using Git
 
 2.Navigate to the project directory:
 
