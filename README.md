@@ -1,5 +1,8 @@
 #Visa-Processing-System
+
 We developed an efficient software based application which will provide an automated way to maintain the information for visa processing. This Visa Processing System will speed up the time required to get the visa while the software is mainly used for applying for the visa also, it will store the information for the future transaction. 
+
+
 Features:
 * Submit visa applications
 
@@ -15,13 +18,21 @@ Installation:
 * To install and run the application on your local machine, follow these steps:
 
 1.Clone the repository to your local machine using Git:
+
 * git clone https://github.com/your-username/visa-processing-system.git
+
 2.Navigate to the project directory:
+
 * cd visa-processing-system
+
 3.Create the MySQL database and tables using the JDBC file provided.
+
 4.Run the application:
+
 * java -jar target/visa-processing-system.jar
+
 5.You should see the application's login screen. Use the following credentials to log in as an admin:
+
 * Email: admin@admin.com
 * Password: admin123
 
