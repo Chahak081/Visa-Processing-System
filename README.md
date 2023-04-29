@@ -35,12 +35,14 @@ Installation:
 * Password: admin123
 
 
-Usage
-* Once you are logged in , you can fill up the visa applications by navigating to the application form.
+Usage:
 
-* To submit a visa application as a user, click the "Apply for Visa" button on the login screen. You will be prompted to enter your personal details and visa information.
+1.Once you are logged in , you can fill up the visa applications by navigating to the application form.
 
-* After submitting your application, you can track its status and view your application history by logging in as a user.
+2.To submit a visa application as a user, click the "Apply for Visa" button on the login screen. You will be prompted to enter your personal details and visa information.
 
-Contributing
-* Contributions are welcome! If you find a bug or have a feature request, please open an issue. Pull requests are also welcome.
+3.After submitting your application, you can track its status and view your application history by logging in as a user.
+
+Contributing:
+
+Contributions are welcome! If you find a bug or have a feature request, please open an issue. Pull requests are also welcome.
